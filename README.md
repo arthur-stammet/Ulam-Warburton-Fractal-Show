@@ -14,7 +14,7 @@ The Ulam–Warburton fractal begins with a single square cell. At each iteration
   - **Number keys [1]–[9]** to jump directly to a specific iteration  
   - **`A` key** to autosave the current image in the working folder (3× pixel size, spaces in filename)  
   - **`S` key** to open a dialog and choose file name/path for saving  
-- Subtitle showing the current number of cells  
+- The current number of cells is shown under the graph 
 - Separate info window with credits and usage instructions  
 
 ### Requirements
