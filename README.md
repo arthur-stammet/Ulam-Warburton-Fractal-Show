@@ -2,6 +2,8 @@
 
 This repository also includes a Python program that interactively visualizes the **Ulam–Warburton cellular automaton fractal**. The project was coded by **Arthur Stammet in November 2025** as a companion to my Toothpick Sequence Showroom.
 
+A gallery with the 64 first steps has been published in this SmugMug Gallery: https://stammet-petit.smugmug.com/Arthurs-Creations/Research/Ulam-Warburton-Fractals
+
 ### About the Ulam–Warburton Fractal
 The Ulam–Warburton fractal begins with a single square cell. At each iteration, new cells are added in the four cardinal directions (north, south, east, west) from every existing cell — but only if that location is touched by **exactly one neighbor**. If a position is adjacent to two or more cells, it remains empty forever. This simple end‑rule produces a striking diamond‑shaped fractal pattern that expands outward in a self‑similar way.
 
